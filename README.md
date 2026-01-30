@@ -117,9 +117,10 @@ Execution logic:
 - 03_solve_and_report.py imports the model, solves it, and exports results
 
 Execution order:
+```
 python src/01_data_preparation.py
 python src/03_solve_and_report.py`
-
+```
 ---
 
 ## Analytical Value
