@@ -1,4 +1,4 @@
-# Long Term Capacity Planning for OptiManu Inc
+# Long Term Capacity Planning
 ## Applied Capacity Expansion Optimization for Manufacturing Strategy
 
 Project Date: 13 April 2024
