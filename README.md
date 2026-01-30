@@ -140,4 +140,4 @@ Efficiency gains are not dynamically propagated across years.
 
 ABDOULAYE DIOP
 
-Supply Chain Analytics
+Applied Data Science and Analytics
